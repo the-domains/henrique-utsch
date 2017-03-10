@@ -30,6 +30,9 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/henrique.utsch'
     type: external
+  - name: Linkedin
+    url: 'https://www.linkedin.com/in/henrique-utsch-86079a33/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/87c86a59-425d-4279-ac91-d81ab79476b9.png
 title: Henrique Utsch
