@@ -4,8 +4,8 @@ description: >-
   Pratico Swásthya Yoga desde os 18 anos e o yoga permite um contato íntimo
   comigo mesmo em todas as áreas. É o que eu utilizo para me dar mais energia e
   disposição para a vida e para os meus relacionamentos.
-dateModified: '2017-03-10T10:54:21.572Z'
-datePublished: '2017-03-10T10:54:21.827Z'
+dateModified: '2017-03-10T11:18:38.866Z'
+datePublished: '2017-03-10T11:18:39.528Z'
 title: Praticante de Yoga
 author: []
 publisher: {}
