@@ -1,12 +1,3 @@
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
-name: Henrique Utsch
-layout_spectrum: 0.32907056249678135
 typography_spectrum: 0.8839504949282855
 color:
   brandStrength: 0.5584731369744986
@@ -19,6 +10,29 @@ color:
     - '#FFFFFF'
     - '#C6C6C6'
     - '#000000'
+github: true
+layout_spectrum: 0.32907056249678135
+author:
+  name: Henrique Utsch
+  email: henriqueutsch@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6da77c21-737c-4a50-9992-a8b87a33a4b1.png
+name: Henrique Utsch
+url: 'http://henriqueutsch.com.br'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Facebook
+    url: 'https://www.facebook.com/henrique.utsch'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/87c86a59-425d-4279-ac91-d81ab79476b9.png
+title: Henrique Utsch
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,19 +42,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b41af39-0e02-43d5-b2ee-e44d77a52c25.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -52,31 +66,21 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c41efee-fdcb-440d-9f21-efae3a31e78a.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6da77c21-737c-4a50-9992-a8b87a33a4b1.png
-url: 'http://henriqueutsch.com.br'
-author:
-  name: Henrique Utsch
-  email: henriqueutsch@gmail.com
-title: Henrique Utsch
 description: ''
 purpose: []
-github: true
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/87c86a59-425d-4279-ac91-d81ab79476b9.png
