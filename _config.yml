@@ -87,3 +87,5 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: ''
 purpose: []
+analytics:
+  google: UA-93494915-1
